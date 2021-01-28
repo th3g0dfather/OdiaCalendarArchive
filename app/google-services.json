@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1054760903911:android:284b41ec77029e9cbfee42",
         "android_client_info": {
-          "package_name": "com.debasish.odiacalendararchive"
+          "package_name": "com.mohit.odiacalendararchive"
         }
       },
       "oauth_client": [
@@ -39,7 +39,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1054760903911:android:8e19f2da5471ba0ebfee42",
         "android_client_info": {
-          "package_name": "com.debasish.odiacalendararchiveadmin"
+          "package_name": "com.mohit.odiacalendararchiveadmin"
         }
       },
       "oauth_client": [
