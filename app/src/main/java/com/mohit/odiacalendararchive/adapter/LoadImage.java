@@ -1,4 +1,4 @@
-package com.debasish.odiacalendararchive.adapter;
+package com.mohit.odiacalendararchive.adapter;
 
 import com.google.firebase.database.Exclude;
 

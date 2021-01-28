@@ -1,4 +1,4 @@
-package com.debasish.odiacalendararchive.adapter;
+package com.mohit.odiacalendararchive.adapter;
 
 import android.graphics.Bitmap;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.debasish.odiacalendararchive.R;
+import com.mohit.odiacalendararchive.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.HashMap;

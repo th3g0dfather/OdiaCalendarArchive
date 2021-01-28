@@ -1,4 +1,4 @@
-package com.debasish.odiacalendararchive;
+package com.mohit.odiacalendararchive;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.debasish.odiacalendararchive", appContext.getPackageName());
+        assertEquals("com.mohit.odiacalendararchive", appContext.getPackageName());
     }
 }

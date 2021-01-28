@@ -1,4 +1,4 @@
-package com.debasish.odiacalendararchive;
+package com.mohit.odiacalendararchive;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.PagerSnapHelper;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.debasish.odiacalendararchive.adapter.ImageAdapter;
-import com.debasish.odiacalendararchive.adapter.LoadImage;
+import com.mohit.odiacalendararchive.adapter.ImageAdapter;
+import com.mohit.odiacalendararchive.adapter.LoadImage;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
